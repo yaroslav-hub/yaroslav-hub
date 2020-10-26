@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![hello](https://im-coins.herokuapp.com/images/8.gif)
+
 <!--
 **yaroslav-hub/yaroslav-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
