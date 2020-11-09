@@ -29,6 +29,13 @@
 ![Beget](https://img.shields.io/badge/-Beget-7D4698?style=for-the-badge&logo=beget&logoWidth=20&logoColor=ffffff&labelColor=663399)
 ![Arduino](https://img.shields.io/badge/-Arduino-7D4698?style=for-the-badge&logo=arduino&logoWidth=20&logoColor=ffffff&labelColor=663399)
 
+---
+### Social Media 🧨
+[![VK](https://img.shields.io/badge/-VK-663399?style=for-the-badge&logo=vk&logoWidth=20)](https://vk.com/pakhmutov2)
+[![Telegram](https://img.shields.io/badge/-Telegram-663399?style=for-the-badge&logo=telegram&logoWidth=20)](https://t.me/yaroslavhub)
+[![Instagram](https://img.shields.io/badge/-Instagram-663399?style=for-the-badge&logo=instagram&logoWidth=20)](https://www.instagram.com/_michaeeel__14)
+[![Twitter](https://img.shields.io/badge/-Twitter-663399?style=for-the-badge&logo=twitter&logoWidth=20)](https://twitter.com)
+
 <!--
 **yaroslav-hub/yaroslav-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
