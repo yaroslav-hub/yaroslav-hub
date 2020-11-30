@@ -27,6 +27,7 @@
 
 ![Heroku](https://img.shields.io/badge/-Heroku-7D4698?style=for-the-badge&logo=heroku&logoWidth=20&logoColor=ffffff&labelColor=663399)
 ![Beget](https://img.shields.io/badge/-Beget-7D4698?style=for-the-badge&logo=beget&logoWidth=20&logoColor=ffffff&labelColor=663399)
+![CloudFlare](https://img.shields.io/badge/-CloudFlare-7D4698?style=for-the-badge&logo=cloudflare&logoWidth=20&logoColor=ffffff&labelColor=663399)
 ![Arduino](https://img.shields.io/badge/-Arduino-7D4698?style=for-the-badge&logo=arduino&logoWidth=20&logoColor=ffffff&labelColor=663399)
 
 ---
@@ -35,6 +36,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-663399?style=for-the-badge&logo=telegram&logoWidth=20)](https://t.me/yaroslavhub)
 [![Instagram](https://img.shields.io/badge/-Instagram-663399?style=for-the-badge&logo=instagram&logoWidth=20)](https://www.instagram.com/_michaeeel__14)
 [![Twitter](https://img.shields.io/badge/-Twitter-663399?style=for-the-badge&logo=twitter&logoWidth=20)](https://twitter.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-663399?style=for-the-badge&logo=youtube&logoWidth=20&logoColor=FF0000)](https://www.youtube.com/channel/UCSRYcaeWABeggHYkLbcfzww)
 
 <!--
 **yaroslav-hub/yaroslav-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
