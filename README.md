@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hello](https://im-coins.herokuapp.com/images/8.gif)
+![hello](https://i.ibb.co/tLqjBhX/background.gif)
 
 ---
 ### Stack of technologies 🖥
