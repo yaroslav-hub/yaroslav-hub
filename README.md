@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hello](https://i.ibb.co/tLqjBhX/background.gif)
+![hello](https://s3.gifyu.com/images/background.gif)
 
 ---
 ### Stack of technologies 🖥
